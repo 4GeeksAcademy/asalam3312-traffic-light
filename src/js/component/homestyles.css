@@ -52,3 +52,20 @@
 	box-shadow: 0 0 10px rgba(0,0,0,0.5);
     background-color: rgb(0, 255, 21);
 }
+
+#father{
+	width: 200px;
+	height: 200px;
+	background: black;
+}
+.father{
+	width: 130px;
+	margin: auto;
+	background: black;
+}
+.post{
+	background: yellow;
+	width: 30px;
+	height: 700px;
+	margin: auto;
+}
