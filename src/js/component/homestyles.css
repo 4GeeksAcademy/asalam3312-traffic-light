@@ -6,6 +6,7 @@
 	margin: 10px;
 	box-shadow: 0 0 10px rgba(0,0,0,0.5);
     background-color: rgb(139, 21, 21);
+	
 }
 #redOn{
     width: 100px;
@@ -66,6 +67,29 @@
 .post{
 	background: yellow;
 	width: 30px;
-	height: 700px;
+	height: 600px;
 	margin: auto;
+}
+#purple{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border: none;
+	margin: 10px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    background-color: rgb(153, 0, 255);
+}
+
+#buttonInPost{
+	margin-right: 5px;
+	width: 28px;
+	height: 28px;
+	border-radius: 50%;
+	background-color: rgb(153, 0, 255);
+
+}
+
+body{
+	background-image: url("https://i.pinimg.com/originals/8c/41/eb/8c41ebaf114a8ffedb103435c1112476.jpg");
+	background-size: 50% ;
 }
